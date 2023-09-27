@@ -1,5 +1,5 @@
 # Intelligent_Diagnostic_Classification_System
-The repository contains two machine learning projects for classify images.
+The repository contains two machine learning projects for classify medical images, using TensorFlow.
 
 1.Brain tumor classification
 [Brain Tumor MRI Dataset](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
